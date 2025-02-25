@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 
 ### *1. Clone the Repository*
 sh
-git clone https://github.com/blessing3140/PREDICTING MEDICAL INSURANCE CHARGE USING RANDOM FOREST REGRESSOR MODEL.git
+git clone https://github.com/blessing3140/PREDICTING/MEDICAL/INSURANCE/CHARGE/USING/RANDOM/FOREST/REGRESSOR/MODEL.git
 cd insurance-prediction
 
 
